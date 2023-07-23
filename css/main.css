@@ -447,7 +447,7 @@ footer::before {
   border-style: solid;
   border-color: transparent transparent #234075 transparent;
   position: absolute;
-  top: -100px;
+  top: -990px;
   left: 50%;
   transform: translate(-50%, 0%);
 }
